@@ -1,5 +1,5 @@
 import asyncio
-
+import browser
 from browser import alert, html, window
 import play
 
