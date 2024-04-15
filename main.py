@@ -1,3 +1,4 @@
+from browser import document, html, window, alert
 import play
 
 play.set_backdrop("white")
