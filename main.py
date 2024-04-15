@@ -1,6 +1,6 @@
 import asyncio
-import webbrowser
-from webbrowser import alert, html, window
+import browser
+
 import play
 
 play.set_backdrop("white")
